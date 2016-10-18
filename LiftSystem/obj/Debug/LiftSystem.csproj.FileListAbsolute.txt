@@ -1,0 +1,6 @@
+c:\users\shrav\onedrive\documents\visual studio 2015\Projects\LiftSystem\LiftSystem\bin\Debug\LiftSystem.exe.config
+c:\users\shrav\onedrive\documents\visual studio 2015\Projects\LiftSystem\LiftSystem\bin\Debug\LiftSystem.exe
+c:\users\shrav\onedrive\documents\visual studio 2015\Projects\LiftSystem\LiftSystem\bin\Debug\LiftSystem.pdb
+c:\users\shrav\onedrive\documents\visual studio 2015\Projects\LiftSystem\LiftSystem\obj\Debug\LiftSystem.csprojResolveAssemblyReference.cache
+c:\users\shrav\onedrive\documents\visual studio 2015\Projects\LiftSystem\LiftSystem\obj\Debug\LiftSystem.exe
+c:\users\shrav\onedrive\documents\visual studio 2015\Projects\LiftSystem\LiftSystem\obj\Debug\LiftSystem.pdb
